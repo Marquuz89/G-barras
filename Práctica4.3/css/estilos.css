@@ -1,0 +1,32 @@
+.ct-series-a .ct-bar {
+    
+    stroke: rgb(69, 223, 22);
+    
+    stroke-width: 50px;
+    }
+    .ct-series-b .ct-bar {
+    
+    stroke: rgb(231, 109, 9);
+    
+    stroke-width: 40px;
+    }
+    .temp-box{
+    width: 50px;
+    }
+    .temp{
+    display: inline-flex;
+    }
+    .max{
+    background-color: rgb(32, 218, 48);
+    }
+    .min{
+    background-color: rgb(228, 141, 42);
+    }
+    .subt{
+    display: block;
+    color: blueviolet;
+    font-size: large;
+    }
+    .centro{
+    text-align: center;
+    }
